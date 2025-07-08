@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nathan Kernan</h1>
 <h3 align="center">Becoming a Software Engineer one line of code at a time.</h3>
 
-- 🔭 I’m currently working on [github-practice](https://github.com/Nathan-Kernan/github-practice.git)
+- 🔭 I’m currently working on mainframe/database projects.
 
-- 🌱 I’m currently learning **Python, GitHub, and Visual Studio.**
+- 🌱 I’m currently learning **COBOL, Python, and Github**
 
 - 📫 How to reach me **nathankernan@outlook.com**
 
-- ⚡ Fun fact **I started coding when I was 30 years old.**
+- ⚡ Fun fact **My inspiration to work with code started because of the AI Director from Left 4 Dead.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nathan kernan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathan kernan" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/nathankernan-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathan kernan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nmkjag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nmkjag" height="30" width="40" /></a>
 </p>
 
