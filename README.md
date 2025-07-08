@@ -1,19 +1,45 @@
-<h1 align="center">Hi 👋, I'm Nathan Kernan</h1>
-<h3 align="center">Becoming a Software Engineer one line of code at a time.</h3>
+👋 Hi, I'm Nathan Kernan!
 
-- 🔭 I’m currently working on mainframe/database projects.
+I'm a passionate and driven Software Engineer at Fiserv, currently pursuing my Bachelor's degree in Computer Science. My work primarily revolves around database and mainframe projects, where I leverage my skills to build robust and efficient systems.
 
-- 🌱 I’m currently learning **COBOL, Python, and Github**
+🚀 What I'm Working On
 
-- 📫 How to reach me **nathankernan@outlook.com**
+At Fiserv, I'm involved in developing and maintaining critical financial applications. My day-to-day work includes:
 
-- ⚡ Fun fact **My inspiration to work with code started because of the AI Director from Left 4 Dead.**
+Database Management: Designing, implementing, and optimizing SQL queries and database schemas to ensure data integrity and performance.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/nathankernan-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathan kernan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nmkjag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nmkjag" height="30" width="40" /></a>
-</p>
+Mainframe Development: Working with COBOL to enhance and support legacy systems that are vital to financial operations.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+🎓 Education
+
+Bachelor of Science in Computer Science
+
+Western Governors University
+
+Expected Graduation: December, 2026
+
+🛠️ Technologies & Skills
+
+- Languages: COBOL, SQL, Python
+- Databases: DB2 and MongoDB
+- Mainframe: I-Series (AS/400), JCL, VSAM, and CICS 
+- Version Control: Git, GitHub
+- Operating Systems: Linux, Windows, and z/OS
+- Concepts: Database Design, Data Structures, Algorithms, Software Development Life Cycle (SDLC)
+
+🌱 Learning & Growth
+
+- Cloud Computing: Exploring cloud platforms (e.g., AWS, Azure, GCP) and their applications in enterprise systems.
+- API Development: Learning to design and implement RESTful APIs for modern application integration.
+- Advanced Python Frameworks: Diving deeper into frameworks like Django or Flask for web development or data science libraries.
+- DevOps Practices: Understanding continuous integration/continuous deployment (CI/CD) pipelines and infrastructure as code.
+- Cybersecurity Fundamentals: Enhancing my understanding of secure coding practices and data protection.
+- Best practices in software engineering and system architecture.e
+
+📫 Connect With Me
+
+LinkedIn: www.linkedin.com/in/nathankernan-dev
+
+Email: nathankernan@outlook.com
+
+Looking forward to connecting and collaborating!
